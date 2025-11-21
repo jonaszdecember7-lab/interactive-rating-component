@@ -9,6 +9,7 @@ body {
     display: flex;
     height: 100vh;
     background-color: hsl(216, 12%, 8%);
+    overflow: hidden;
 }
 
 main {
