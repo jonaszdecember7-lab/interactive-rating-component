@@ -130,3 +130,18 @@ button {
 .attribution a { color: hsl(228, 45%, 44%); }
 
 
+@media (max-width: 600px) {
+    .rating-card {
+    width: 70%;
+} 
+button {
+     height: 45px;
+     width: 55px;
+}
+.thank-you-card {
+    width: 70%;
+}
+.attribution {
+    display: none;
+}
+}
